@@ -1,0 +1,28 @@
+.top {
+    display: flex;
+}
+.right_align {
+    display: flex;
+    gap: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+}
+
+.right_top_image {
+    margin-top: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left_top_level {
+    display: flex;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    
+}
+#button_top_left {
+    align-items: center;
+}
