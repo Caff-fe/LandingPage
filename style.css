@@ -1,4 +1,5 @@
 .top {
+    background-color: aquamarine;
     display: flex;
 }
 .right_align {
@@ -25,4 +26,14 @@
 }
 #button_top_left {
     align-items: center;
+}
+.middle {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50%;
+    margin-right: auto;
+    row-gap: 25px;
+    margin-top: 25px;
+    flex-direction: column;
 }
