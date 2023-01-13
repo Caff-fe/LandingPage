@@ -30,8 +30,9 @@
 .middle {
     background-color: aqua;
     display: flex;
+    text-align: center;
     justify-content: space-around;
-    margin-left: 50%;
+    margin-left: auto;
     margin-right: auto;
     row-gap: 25px;
     margin-top: 25px;
